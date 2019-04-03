@@ -4,3 +4,4 @@ goodbye
 first
 second
 third
+string1
