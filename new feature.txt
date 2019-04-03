@@ -1,4 +1,4 @@
-string1
+lolka
 string2
 str3
 smart alarm clock code
