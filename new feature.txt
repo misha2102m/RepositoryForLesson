@@ -3,3 +3,4 @@ string2
 str3
 smart alarm clock code
 privet
+new changes hesasd hi
